@@ -1,0 +1,10 @@
+tg\univlome\epl\boutique\entite\ProduitAchete.class
+tg\univlome\epl\boutique\entite\Produit.class
+tg\univlome\epl\boutique\entite\BoutiqueApi.class
+tg\univlome\epl\boutique\entite\Client.class
+tg\univlome\epl\boutique\entite\Employe.class
+tg\univlome\epl\boutique\entite\Personne.class
+tg\univlome\epl\boutique\entite\Achat.class
+tg\univlome\epl\boutique\entite\LocalDateDeserializer.class
+tg\univlome\epl\boutique\entite\Categorie.class
+tg\univlome\epl\boutique\entite\LocalDateSerializer.class
